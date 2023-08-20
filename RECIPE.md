@@ -33,18 +33,21 @@ A collection of pancake recipes.
   - [Carrot Cake Pancakes](#carrot-cake-pancakes)
     - [Ingredients](#ingredients-6)
     - [Directions](#directions-6)
+    - [Cream Cheese Layer](#cream-cheese-layer)
+      - [Ingredients](#ingredients-7)
+      - [Directions](#directions-7)
   - [Pumpkin Pancakes](#pumpkin-pancakes)
-    - [Ingredients](#ingredients-7)
-    - [Directions](#directions-7)
-  - [Blueberry Lemon Ricotta Pancakes](#blueberry-lemon-ricotta-pancakes)
     - [Ingredients](#ingredients-8)
     - [Directions](#directions-8)
-  - [Whole Wheat Pancakes](#whole-wheat-pancakes)
+  - [Blueberry Lemon Ricotta Pancakes](#blueberry-lemon-ricotta-pancakes)
     - [Ingredients](#ingredients-9)
     - [Directions](#directions-9)
-  - [Sourdough Pancakes](#sourdough-pancakes)
+  - [Whole Wheat Pancakes](#whole-wheat-pancakes)
     - [Ingredients](#ingredients-10)
     - [Directions](#directions-10)
+  - [Sourdough Pancakes](#sourdough-pancakes)
+    - [Ingredients](#ingredients-11)
+    - [Directions](#directions-11)
 
 <!-- Buttermilk Pancakes -->
 ## Buttermilk Pancakes
@@ -207,7 +210,6 @@ A collection of pancake recipes.
 4. Fold in the grated apple and cinnamon.
 
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
-
 <!-- Carrot Cake Pancakes -->
 ## Carrot Cake Pancakes
 
@@ -237,6 +239,24 @@ A collection of pancake recipes.
 4. Fold in the grated carrot, cinnamon, nutmeg, and brown sugar.
 
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
+
+<!-- Cream Cheese Layer -->
+### Cream Cheese Layer
+
+#### Ingredients
+| Ingredient | Quantity | Unit |
+| :--- | :---: | :---: |
+| Cream Cheese | 113.4 | grams |
+| Powdered Sugar | 60 | milliliters |
+| Vanilla Extract | 2.5 | milliliters |
+
+#### Directions
+
+1. In a small bowl, beat together the cream cheese, powdered sugar, and vanilla extract until smooth.
+
+2. Spread a layer of the cream cheese mixture on top of each pancake, then stack the pancakes to create a layered effect.
+
+3. Serve hot with your favorite toppings.
 
 <!-- Pumpkin Pancakes -->
 ## Pumpkin Pancakes
