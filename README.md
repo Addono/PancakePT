@@ -1,4 +1,4 @@
-# Pancake Recipe Book
+# PancakePT - The GPTed Recipe Book for Pancake Lovers
 
 This repository contains a collection of pancake recipes. Each recipe includes a list of ingredients and directions for making the pancakes.
 
