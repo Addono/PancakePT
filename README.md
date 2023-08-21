@@ -33,6 +33,8 @@ The following pancake recipes are included in this repository:
 
 The ingredients for each recipe are listed in a table format, with the quantity and unit of each ingredient specified. The directions for each recipe include step-by-step instructions for making the pancakes.
 
+Go [here](./RECIPE.md) to view the pancake recipes 😋🤤.
+
 ## Contributing
 
 Contributions to this repository are welcome! If you have a pancake recipe you'd like to add, please follow these steps:
