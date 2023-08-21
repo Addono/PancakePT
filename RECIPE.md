@@ -5,10 +5,12 @@
 
 ## Description
 
-A collection of pancake recipes. 
+A collection of pancake recipes.
 
 <!-- Table of Contents -->
+
 ## Table of Contents
+
 - [Pancake Recipe Book](#pancake-recipe-book)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
@@ -50,20 +52,21 @@ A collection of pancake recipes.
     - [Directions](#directions-11)
 
 <!-- Buttermilk Pancakes -->
+
 ## Buttermilk Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| Buttermilk | 710 | milliliters |
-| All-Purpose Flour | 250 | grams |
-| Granulated Sugar | 45 | grams |
-| Baking Powder | 2 | teaspoons |
-| Baking Soda | 1 | teaspoon |
-| Salt | 1/2 | teaspoon |
-| Egg | 2 | large |
-| Unsalted Butter | 56 | grams, melted, plus 1 tablespoon for cooking |
+| Ingredient        | Quantity |                     Unit                     |
+| :---------------- | :------: | :------------------------------------------: |
+| Buttermilk        |   710    |                 milliliters                  |
+| All-Purpose Flour |   250    |                    grams                     |
+| Granulated Sugar  |    45    |                    grams                     |
+| Baking Powder     |    2     |                  teaspoons                   |
+| Baking Soda       |    1     |                   teaspoon                   |
+| Salt              |   1/2    |                   teaspoon                   |
+| Egg               |    2     |                    large                     |
+| Unsalted Butter   |    56    | grams, melted, plus 1 tablespoon for cooking |
 
 ### Directions
 
@@ -72,20 +75,21 @@ A collection of pancake recipes.
 2. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Blueberry Pancakes -->
+
 ## Blueberry Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Granulated Sugar | 50 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Blueberries | 100 | grams |
+| Ingredient        | Quantity |     Unit      |
+| :---------------- | :------: | :-----------: |
+| All-Purpose Flour |   250    |     grams     |
+| Granulated Sugar  |    50    |     grams     |
+| Baking Powder     |    2     |   teaspoons   |
+| Salt              |   1/2    |   teaspoon    |
+| Milk              |   240    |  milliliters  |
+| Egg               |    1     |     large     |
+| Unsalted Butter   |    56    | grams, melted |
+| Blueberries       |   100    |     grams     |
 
 ### Directions
 
@@ -100,19 +104,20 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Banana Pancakes -->
+
 ## Banana Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Banana | 1 | large, mashed |
+| Ingredient        | Quantity |     Unit      |
+| :---------------- | :------: | :-----------: |
+| All-Purpose Flour |   250    |     grams     |
+| Baking Powder     |    2     |   teaspoons   |
+| Salt              |   1/2    |   teaspoon    |
+| Milk              |   240    |  milliliters  |
+| Egg               |    1     |     large     |
+| Unsalted Butter   |    56    | grams, melted |
+| Banana            |    1     | large, mashed |
 
 ### Directions
 
@@ -127,20 +132,21 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Chocolate Chip Pancakes -->
+
 ## Chocolate Chip Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 125 | grams |
-| Granulated Sugar | 25 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Vegetable Oil | 2 | tablespoons |
-| Miniature Semisweet Chocolate Chips | 170 | grams |
+| Ingredient                          | Quantity |    Unit     |
+| :---------------------------------- | :------: | :---------: |
+| All-Purpose Flour                   |   125    |    grams    |
+| Granulated Sugar                    |    25    |    grams    |
+| Baking Powder                       |    2     |  teaspoons  |
+| Salt                                |    1     |  teaspoon   |
+| Milk                                |   240    | milliliters |
+| Egg                                 |    1     |    large    |
+| Vegetable Oil                       |    2     | tablespoons |
+| Miniature Semisweet Chocolate Chips |   170    |    grams    |
 
 ### Directions
 
@@ -155,21 +161,22 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Savory Pancakes -->
+
 ## Savory Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Cheddar Cheese | 100 | grams, grated |
-| Green Onions | 2 | chopped |
-| Bacon | 2 | slices, cooked and crumbled |
+| Ingredient        | Quantity |            Unit             |
+| :---------------- | :------: | :-------------------------: |
+| All-Purpose Flour |   250    |            grams            |
+| Baking Powder     |    2     |          teaspoons          |
+| Salt              |   1/2    |          teaspoon           |
+| Milk              |   240    |         milliliters         |
+| Egg               |    1     |            large            |
+| Unsalted Butter   |    56    |        grams, melted        |
+| Cheddar Cheese    |   100    |        grams, grated        |
+| Green Onions      |    2     |           chopped           |
+| Bacon             |    2     | slices, cooked and crumbled |
 
 ### Directions
 
@@ -184,20 +191,21 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Apple Pancakes -->
+
 ## Apple Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Apple | 1 | large, peeled and grated |
-| Cinnamon | 1 | teaspoon |
+| Ingredient        | Quantity |           Unit           |
+| :---------------- | :------: | :----------------------: |
+| All-Purpose Flour |   250    |          grams           |
+| Baking Powder     |    2     |        teaspoons         |
+| Salt              |   1/2    |         teaspoon         |
+| Milk              |   240    |       milliliters        |
+| Egg               |    1     |          large           |
+| Unsalted Butter   |    56    |      grams, melted       |
+| Apple             |    1     | large, peeled and grated |
+| Cinnamon          |    1     |         teaspoon         |
 
 ### Directions
 
@@ -210,23 +218,25 @@ A collection of pancake recipes.
 4. Fold in the grated apple and cinnamon.
 
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
+
 <!-- Carrot Cake Pancakes -->
+
 ## Carrot Cake Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Carrot | 1 | large, peeled and grated |
-| Cinnamon | 1 | teaspoon |
-| Nutmeg | 1/4 | teaspoon |
-| Brown Sugar | 50 | grams |
+| Ingredient        | Quantity |           Unit           |
+| :---------------- | :------: | :----------------------: |
+| All-Purpose Flour |   250    |          grams           |
+| Baking Powder     |    2     |        teaspoons         |
+| Salt              |   1/2    |         teaspoon         |
+| Milk              |   240    |       milliliters        |
+| Egg               |    1     |          large           |
+| Unsalted Butter   |    56    |      grams, melted       |
+| Carrot            |    1     | large, peeled and grated |
+| Cinnamon          |    1     |         teaspoon         |
+| Nutmeg            |   1/4    |         teaspoon         |
+| Brown Sugar       |    50    |          grams           |
 
 ### Directions
 
@@ -241,14 +251,16 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Cream Cheese Layer -->
+
 ### Cream Cheese Layer
 
 #### Ingredients
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| Cream Cheese | 113.4 | grams |
-| Powdered Sugar | 60 | milliliters |
-| Vanilla Extract | 2.5 | milliliters |
+
+| Ingredient      | Quantity |    Unit     |
+| :-------------- | :------: | :---------: |
+| Cream Cheese    |  113.4   |    grams    |
+| Powdered Sugar  |    60    | milliliters |
+| Vanilla Extract |   2.5    | milliliters |
 
 #### Directions
 
@@ -259,22 +271,23 @@ A collection of pancake recipes.
 3. Serve hot with your favorite toppings.
 
 <!-- Pumpkin Pancakes -->
+
 ## Pumpkin Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Pumpkin Puree | 120 | grams |
-| Cinnamon | 1 | teaspoon |
-| Nutmeg | 1/4 | teaspoon |
-| Ginger | 1/4 | teaspoon |
+| Ingredient        | Quantity |     Unit      |
+| :---------------- | :------: | :-----------: |
+| All-Purpose Flour |   250    |     grams     |
+| Baking Powder     |    2     |   teaspoons   |
+| Salt              |   1/2    |   teaspoon    |
+| Milk              |   240    |  milliliters  |
+| Egg               |    1     |     large     |
+| Unsalted Butter   |    56    | grams, melted |
+| Pumpkin Puree     |   120    |     grams     |
+| Cinnamon          |    1     |   teaspoon    |
+| Nutmeg            |   1/4    |   teaspoon    |
+| Ginger            |   1/4    |   teaspoon    |
 
 ### Directions
 
@@ -289,21 +302,22 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Blueberry Lemon Ricotta Pancakes -->
+
 ## Blueberry Lemon Ricotta Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Ricotta Cheese | 120 | grams |
-| Lemon Zest | 1 | teaspoon |
-| Blueberries | 100 | grams |
+| Ingredient        | Quantity |     Unit      |
+| :---------------- | :------: | :-----------: |
+| All-Purpose Flour |   250    |     grams     |
+| Baking Powder     |    2     |   teaspoons   |
+| Salt              |   1/2    |   teaspoon    |
+| Milk              |   240    |  milliliters  |
+| Egg               |    1     |     large     |
+| Unsalted Butter   |    56    | grams, melted |
+| Ricotta Cheese    |   120    |     grams     |
+| Lemon Zest        |    1     |   teaspoon    |
+| Blueberries       |   100    |     grams     |
 
 ### Directions
 
@@ -318,19 +332,20 @@ A collection of pancake recipes.
 5. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Whole Wheat Pancakes -->
+
 ## Whole Wheat Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| Whole Wheat Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Honey | 2 | tablespoons |
+| Ingredient        | Quantity |     Unit      |
+| :---------------- | :------: | :-----------: |
+| Whole Wheat Flour |   250    |     grams     |
+| Baking Powder     |    2     |   teaspoons   |
+| Salt              |   1/2    |   teaspoon    |
+| Milk              |   240    |  milliliters  |
+| Egg               |    1     |     large     |
+| Unsalted Butter   |    56    | grams, melted |
+| Honey             |    2     |  tablespoons  |
 
 ### Directions
 
@@ -343,19 +358,20 @@ A collection of pancake recipes.
 4. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 60 milliliters for each pancake. Brown on both sides and serve hot.
 
 <!-- Sourdough Pancakes -->
+
 ## Sourdough Pancakes
 
 ### Ingredients
 
-| Ingredient | Quantity | Unit |
-| :--- | :---: | :---: |
-| All-Purpose Flour | 250 | grams |
-| Baking Powder | 2 | teaspoons |
-| Salt | 1/2 | teaspoon |
-| Milk | 240 | milliliters |
-| Egg | 1 | large |
-| Unsalted Butter | 56 | grams, melted |
-| Sourdough Starter | 120 | grams |
+| Ingredient        | Quantity |     Unit      |
+| :---------------- | :------: | :-----------: |
+| All-Purpose Flour |   250    |     grams     |
+| Baking Powder     |    2     |   teaspoons   |
+| Salt              |   1/2    |   teaspoon    |
+| Milk              |   240    |  milliliters  |
+| Egg               |    1     |     large     |
+| Unsalted Butter   |    56    | grams, melted |
+| Sourdough Starter |   120    |     grams     |
 
 ### Directions
 
