@@ -8,7 +8,7 @@ repository:
   description: GPT-generated pancake recipes.
 
   # A URL with more information about the repository
-  # homepage: https://hub.docker.com/r/addono/bull-monitor
+  homepage: https://gh.aknapen.nl/PancakePT/RECIPE
   
   # A comma-separated list of topics to set on the repository
   topics: pancakes, recipes, gpt, llm, ai
