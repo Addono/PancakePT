@@ -4,7 +4,7 @@ This repository contains a collection of pancake recipes. Each recipe includes a
 
 Most of the content here has been generated using GitHub Copilot and Copilot Chat, as an easy to understand example of the success and failure cases of the tool.
 
-> *Warning*
+> **Warning**
 > None of these recipes have been tried, use them at your own risk!
 
 ## Table of Contents
